@@ -14,8 +14,7 @@ Imagine a woman trapped in silence, enduring daily fear and abuse, unable to see
 https://www.youtube.com/watch?v=qxb3891TGzw 
 
 ### Try it out
-https://haven-aws.framer.website/
-
+https://amazonbedrock.vercel.app/
 <br/>
 
 ## What it Does 💡
